@@ -19,3 +19,16 @@ image.pngimage.pngit says $13.29 but really it's 21.07 before tax because of the
 
 6: the antenna adapter is a simple one. longer cables or lower quality ones can add noise but unless there straight up broken a 20cm cable is absolutely fine. this 20cm is just an n-type to u.fl adapter cable. from AliExpress
 <img width="1875" height="866" alt="Screenshot 2026-10-03 222828" src="https://github.com/user-attachments/assets/5856fe78-a2d8-497d-9261-b31831464e57" />
+
+
+
+
+
+What's next!?
+
+im planing to 3d model a housing for this tec, but i'd like to do it while i have the gear because i have made a few projects like this before and i go through versions after versions and i need the gear to test, fix and rebuild. this is for the lack of an stl or pcb.
+<img width="591" height="620" alt="Screenshot 2026-10-03 125026" src="https://github.com/user-attachments/assets/1afa7019-bfd8-45c8-8c3e-c083acbf709d" />
+
+this was an idea for a housing for the gear, it was good to get my ideas out in onshape but im going to restart with the learnings of making that housing.
+
+and im not sure how to add my BOM into the read me so please check the main github, for the file listed BOM, which holds all that data :P
