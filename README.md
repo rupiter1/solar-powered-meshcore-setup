@@ -15,7 +15,10 @@ then glue the solar mounts onto the main cage, use something like epoxy as it's 
 <img width="1080" height="1920" alt="meshcore1_3" src="https://github.com/user-attachments/assets/33c960f3-6040-4051-99c6-ac16331ff606" />
 <img width="1080" height="1920" alt="meshcore1_2" src="https://github.com/user-attachments/assets/42fea5b0-da68-42ef-836b-cf3e61dc401d" />
 
-
+connect the antenna to the main housing (ontop)
+and connect the u.fl side to the heltec v4.
+connect power the heltec v4 and verify that it boots up, connect to the board with the Meshcore app, and you're off to the races!
+And NEVER, I repeat NEVER! turn the Heltec on without an antenna connected. this will fry the board.
 
 
 
