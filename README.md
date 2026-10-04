@@ -8,12 +8,20 @@ The BOM (Bill of Materials) is subject to change and I plan to design my own sol
 
 <img width="1080" height="1920" alt="meshcore1_1" src="https://github.com/user-attachments/assets/986b3377-cce3-4cce-a258-d3ee7ba87bd6" />
 step to build you're own!
-step 1: you're going to be printing this Meshcore case
+you're going to be printing this Meshcore case
 which is listed under printable files, in the main repo.
 the most import thing about this case is that you sand, fill (if needed) and paint it, 3d prints are not water proof but doing these steps will make it much more water resistant. 
+then glue the solar mounts onto the main cage, use something like epoxy as it's strong and will last outside. ( will update the design to use screws ) glue one at a time and make sure that's weight on solar mount pressing into the main housing. screw the antenna adapter into the top of the main housing and seal this will a light coat of gap filler. to keep the water out. double sided tap the batteries and solar charger into the bottom tray of the main hosuing, and tape the Heltec v4 ontop of the tray. solder the wires to the solar panels and glue them to the solar mounts while feeding the wires through into the main housing, then fill the hole you came through. connect up the wires acording to the images below,
+<img width="1080" height="1920" alt="meshcore1_3" src="https://github.com/user-attachments/assets/33c960f3-6040-4051-99c6-ac16331ff606" />
+<img width="1080" height="1920" alt="meshcore1_2" src="https://github.com/user-attachments/assets/42fea5b0-da68-42ef-836b-cf3e61dc401d" />
+
+
+
+
+
 <img width="644" height="689" alt="Screenshot 2026-10-04 144736" src="https://github.com/user-attachments/assets/5ba79b59-43de-41a4-b0f3-999f9c2c4445" />
 
 
 
 What's next!?
-order parts, refine case, find spot to place repeater, test and record data, report back finding,
+order parts, refine case, find spot to place repeater, test and record data, report back findings,
