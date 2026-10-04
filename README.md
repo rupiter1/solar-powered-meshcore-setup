@@ -13,6 +13,7 @@ first take you're heltec v4 and connect the antenna, then connect power ( antenn
 
 
 <img width="644" height="689" alt="Screenshot 2026-10-04 144736" src="https://github.com/user-attachments/assets/5ba79b59-43de-41a4-b0f3-999f9c2c4445" />
+
 you're going to be printing this Meshcore case
 which is listed under printable files, in the main repo.
 the most import thing about this case is that you sand, fill (if needed) and paint it, 3d prints are not water proof but doing these steps will make it much more water resistant. 
