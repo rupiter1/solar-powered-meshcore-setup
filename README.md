@@ -1,27 +1,4 @@
-BOM:
-https://heltec.org/project/wifi-lora-32-v4/
 
-this is the main board and brain/transmitter 20usd (24usd with shipping to new zealand)
-These items: 
-Solar panel 2.08nzd
-https://www.aliexpress.com/item/1005005721676312.html?
-
-Solar charger (CN3791 6volt) 5.54nzd
-https://www.aliexpress.com/item/1005012291361698.html?
-
-Antenna (915mhz GIZONT) 24.23nzd
-https://www.aliexpress.com/item/1005009210548173.html?
-
-Antenna Adapter (n-type to u.fl) 16.80nzd
-https://www.aliexpress.com/item/1005009210548173.html?
-
-are all from aliexpress which inculdes tax and shiping in nzd and usd(estimated)
-
-sub total ailexpress 48.65nzd (27.32USD)
-<img width="426" height="359" alt="image" src="https://github.com/user-attachments/assets/f6e40222-3904-4d0a-ac8b-fd1e6311c93b" />
-
-
-total (heltec + ailexpress) = 51.32USD
 
 im spending these hours researching what i need to create a custom Meshcore repeater. i've researched: meshcore unit 1: solar panel 2: solar charger 3: batteies 4: antenna 5: antenna adapter 6: all prices are nzd
 
