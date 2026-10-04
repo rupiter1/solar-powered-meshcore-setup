@@ -1,3 +1,19 @@
+BOM:
+https://heltec.org/project/wifi-lora-32-v4/
+this is the main board and brain/transmitter 20usd (24usd with shipping to new zealand)
+These items: 
+Solar panel 2.08nzd
+https://www.aliexpress.com/item/1005005721676312.html?spm=a2g0o.cart.0.0.398a38daBBhQAL&mp=1
+Solar charger (CN3791 6volt) 5.54nzd
+https://www.aliexpress.com/item/1005012291361698.html?spm=a2g0o.cart.0.0.398a38daBBhQAL&mp=1
+Antenna (915mhz GIZONT) 24.23nzd
+https://www.aliexpress.com/item/1005009210548173.html?spm=a2g0o.cart.0.0.398a38daBBhQAL&mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D 
+Antenna Adapter (n-type to u.fl) 16.80nzd
+https://www.aliexpress.com/item/1005009210548173.html?spm=a2g0o.cart.0.0.c20538daN59jeD&mp=1&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D
+are all from aliexpress which inculdes tax and shiping in nzd and usd(estimated)
+sub total ailexpress 48.65nzd (27.32USD)
+total (heltec + ailexpress) = 51.32USD
+
 im spending these hours researching what i need to create a custom Meshcore repeater. i've researched: meshcore unit 1: solar panel 2: solar charger 3: batteies 4: antenna 5: antenna adapter 6: all prices are nzd
 
 1: as i did my research to find the best cheapest and easiest to use meshcore unit. i found out very quicky that almost everyone is saying get the heltec v3 (for older videos) and with newer info i found people liked the heltec v4 more than the v3 for it's higher output power 27dbi (roughly 500mw) and it's based on the esp32 s3, which makes this board quite cheap and quite powerful(useful). i've picked this right from the heltec site.
