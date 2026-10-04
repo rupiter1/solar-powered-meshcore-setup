@@ -11,6 +11,8 @@ steps to build you're own!
 first take you're heltec v4 and connect the antenna, then connect power ( antenna MUST be connected first ) go to the meshcore flasher ( https://meshcore.io/flasher ) and search heltec v4. follow through the process and make sure you're using chrome as some browsers can't connect to the heltec v4
 <img width="1919" height="580" alt="Screenshot 2026-10-04 201757" src="https://github.com/user-attachments/assets/f111da99-ac4c-4703-b2da-e3ed41021a66" />
 
+
+<img width="644" height="689" alt="Screenshot 2026-10-04 144736" src="https://github.com/user-attachments/assets/5ba79b59-43de-41a4-b0f3-999f9c2c4445" />
 you're going to be printing this Meshcore case
 which is listed under printable files, in the main repo.
 the most import thing about this case is that you sand, fill (if needed) and paint it, 3d prints are not water proof but doing these steps will make it much more water resistant. 
@@ -22,11 +24,6 @@ connect the antenna to the main housing (ontop)
 and connect the u.fl side to the heltec v4.
 connect power the heltec v4 and verify that it boots up, connect to the board with the Meshcore app, and you're off to the races!
 And NEVER, I repeat NEVER! turn the Heltec on without an antenna connected. this will fry the board.
-
-
-
-<img width="644" height="689" alt="Screenshot 2026-10-04 144736" src="https://github.com/user-attachments/assets/5ba79b59-43de-41a4-b0f3-999f9c2c4445" />
-
 
 
 What's next!?
