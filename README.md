@@ -26,6 +26,7 @@ and connect the u.fl side to the heltec v4.
 connect power the heltec v4 and verify that it boots up, connect to the board with the Meshcore app, and you're off to the races!
 And NEVER, I repeat NEVER! turn the Heltec on without an antenna connected. this will fry the board.
 
+updated with v1.1 case designs!
 
 What's next!?
 order parts, refine case, find spot to place repeater, test and record data, report back findings,
