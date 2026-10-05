@@ -18,6 +18,8 @@ you're going to be printing this Meshcore case
 which is listed under printable files, in the main repo.
 the most import thing about this case is that you sand, fill (if needed) and paint it, 3d prints are not water proof but doing these steps will make it much more water resistant. 
 then glue the solar mounts onto the main cage, use something like epoxy as it's strong and will last outside. ( will update the design to use screws ) glue one at a time and make sure that's weight on solar mount pressing into the main housing. screw the antenna adapter into the top of the main housing and seal this will a light coat of gap filler. to keep the water out. double sided tap the batteries and solar charger into the bottom tray of the main hosuing, and tape the Heltec v4 ontop of the tray. solder the wires to the solar panels and glue them to the solar mounts while feeding the wires through into the main housing, then fill the hole you came through. connect up the wires acording to the images below,
+
+<img width="1920" height="1920" alt="mesh core wiring" src="https://github.com/user-attachments/assets/2dcd1875-c20a-4562-908f-a7c3dd694665" />=
 <img width="1080" height="1920" alt="meshcore1_3" src="https://github.com/user-attachments/assets/33c960f3-6040-4051-99c6-ac16331ff606" />
 <img width="1080" height="1920" alt="meshcore1_2" src="https://github.com/user-attachments/assets/42fea5b0-da68-42ef-836b-cf3e61dc401d" />
 
