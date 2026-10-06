@@ -32,3 +32,15 @@ updated with v1.1 case designs!
 
 What's next!?
 order parts, refine case, find spot to place repeater, test and record data, report back findings,
+
+
+[BOM.md](https://github.com/user-attachments/files/33081888/BOM.md)
+
+|Item                            |price                                                  |source                                                 |
+|--------------------------------|-------------------------------------------------------|-------------------------------------------------------|
+|heltec v4                       | 24                                                    | https://heltec.org/project/wifi-lora-32-v4/           |
+|Solar Panel (2pcs)              | 1.17                                                  | https://www.aliexpress.com/item/1005005721676312.html?|
+|Solar Charger                   | 3.11                                                  | https://www.aliexpress.com/item/1005012291361698.html?|
+|Antenna (915mhz GIZONT)         | 13.60                                                 | https://www.aliexpress.com/item/1005009210548173.html?|
+|Antenna Adapter (n-type to u.fl)| 9.43                                                  | https://www.aliexpress.com/item/1005009210548173.html?|
+|Total                           | 51.32USD                                              |                                                       |
