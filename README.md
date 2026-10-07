@@ -34,6 +34,8 @@ order parts, refine case, find spot to place repeater, test and record data, rep
 
 
 
+make sure to click on the ailexpress links themselfs and dont "open in new tab" for some reason this doesn't work with them.
+
 |Item                            |Price   |Source                                                |
 |--------------------------------|--------|------------------------------------------------------|
 |Heltec v4                       |24      |https://heltec.org/project/wifi-lora-32-v4/           |
