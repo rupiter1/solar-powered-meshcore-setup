@@ -35,6 +35,8 @@ order parts, refine case, find spot to place repeater, test and record data, rep
 
 
 make sure to click on the ailexpress links themselfs and dont "open in new tab" for some reason this doesn't work with them.
+PS:
+prices on ailexpress are weird and they change alot but these are my most up todate numbers
 
 |Item                            |Price   |Source                                                |
 |--------------------------------|--------|------------------------------------------------------|
