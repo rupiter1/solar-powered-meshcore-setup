@@ -1,4 +1,3 @@
-[BOMv1.1.md](https://github.com/user-attachments/files/33154930/BOMv1.1.md)
 Introduction:
 this is my meshcore project. my goal is to bridge my local area to the wilder auckland meshcore network with a Meshcore repleter, meshcore is a open source communications system that offers encryption, public/public messageing and is run on small and reasonably cheap modules (often based on esp32s) with an attached LoRa transmitter and receiver, (long range low power radio)
 
