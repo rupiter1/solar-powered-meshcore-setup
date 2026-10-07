@@ -1,4 +1,4 @@
-
+[BOMv1.1.md](https://github.com/user-attachments/files/33154930/BOMv1.1.md)
 Introduction:
 this is my meshcore project. my goal is to bridge my local area to the wilder auckland meshcore network with a Meshcore repleter, meshcore is a open source communications system that offers encryption, public/public messageing and is run on small and reasonably cheap modules (often based on esp32s) with an attached LoRa transmitter and receiver, (long range low power radio)
 
@@ -34,13 +34,13 @@ What's next!?
 order parts, refine case, find spot to place repeater, test and record data, report back findings,
 
 
-[BOM.md](https://github.com/user-attachments/files/33081888/BOM.md)
 
-|Item                            |price                                                  |source                                                 |
-|--------------------------------|-------------------------------------------------------|-------------------------------------------------------|
-|heltec v4                       | 24                                                    | https://heltec.org/project/wifi-lora-32-v4/           |
-|Solar Panel (2pcs)              | 1.17                                                  | https://www.aliexpress.com/item/1005005721676312.html?|
-|Solar Charger                   | 3.11                                                  | https://www.aliexpress.com/item/1005012291361698.html?|
-|Antenna (915mhz GIZONT)         | 13.60                                                 | https://www.aliexpress.com/item/1005009210548173.html?|
-|Antenna Adapter (n-type to u.fl)| 9.43                                                  | https://www.aliexpress.com/item/1005009210548173.html?|
-|Total                           | 51.32USD                                              |                                                       |
+|Item                            |Price   |Source                                                |
+|--------------------------------|--------|------------------------------------------------------|
+|Heltec v4                       |24      |https://heltec.org/project/wifi-lora-32-v4/           |
+|Solar Panel (2pcs)              |1.17    |https://www.aliexpress.com/item/1005005721676312.html?|
+|Solar Charger                   |3.11    |https://www.aliexpress.com/item/1005012291361698.html?|
+|Antenna (915mhz GIZONT)         |13.60   |https://www.aliexpress.com/item/1005009210548173.html?|
+|Antenna Adapter (n-type to u.fl)|9.43    |https://www.aliexpress.com/item/1005009210548173.html?|
+|~400grams pla+                  |5.6     |https://www.pbtech.co.nz/product/INKCRL0175           |
+|Total                           |56.92USD|
