@@ -52,6 +52,7 @@ pcb files that would be added to this project once their looked over and comfirm
 <img width="695" height="429" alt="Screenshot 2026-10-10 155425" src="https://github.com/user-attachments/assets/8da2bc0e-7601-4d1c-9ddf-58644073d5bd" />
 <img width="416" height="702" alt="Screenshot 2026-10-09 005335" src="https://github.com/user-attachments/assets/a8a8d32b-2e0a-4846-b354-54b93d3bd024" />
 
-a solar charging board that can easily take our two wat six volt solar supply and keep the two 18650 batteries charged during the day to use over night, 
+a solar charging board that can easily take our two wat six volt solar supply and keep the two 18650 batteries charged during the day to use over night,
+but for now to keep this project cost Efficient and easy to repeat at home we'll use an off the shelf module using the cn3791 chip : D
 
 
