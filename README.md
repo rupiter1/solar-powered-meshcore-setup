@@ -47,3 +47,11 @@ prices on ailexpress are weird and they change alot but these are my most up tod
 |Antenna Adapter (n-type to u.fl)|9.43    |https://www.aliexpress.com/item/1005009210548173.html?|
 |~400grams pla+                  |5.6     |https://www.pbtech.co.nz/product/INKCRL0175           |
 |Total                           |56.92USD|
+
+pcb files that would be added to this project once their looked over and comfirmed :P
+<img width="695" height="429" alt="Screenshot 2026-10-10 155425" src="https://github.com/user-attachments/assets/8da2bc0e-7601-4d1c-9ddf-58644073d5bd" />
+<img width="416" height="702" alt="Screenshot 2026-10-09 005335" src="https://github.com/user-attachments/assets/a8a8d32b-2e0a-4846-b354-54b93d3bd024" />
+
+a solar charging board that can easily take our two wat six volt solar supply and keep the two 18650 batteries charged during the day to use over night, 
+
+
